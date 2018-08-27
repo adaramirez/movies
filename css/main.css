@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+}
+
+#movies{
+    background-color:#e4c0c7;
+}
+
+.app-title{
+    background-color:#541d38;
+    color:#eeeeee;
+    font-family: 'Sofia', cursive;
+    padding: 1em;
+}
+
+.movie{
+    background-color: #eeeeee;
+    border-radius: 1em;
+    padding:1em;   
+    width: 60vw;
+}
+
+#first-half{
+    background-color: #cfd0d2;
+    padding: 1em;
+}
+
+.movie-photo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.movie-title{
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 30px;
+}
+
+p{
+    font-family: 'Sarala', sans-serif;
+    font-size: 20px;
+}
