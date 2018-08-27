@@ -17,7 +17,7 @@ body{
     background-color: #eeeeee;
     border-radius: 1em;
     padding:1em;   
-    width: 60vw;
+    width: 100vw;
 }
 
 #first-half{
@@ -40,3 +40,14 @@ p{
     font-family: 'Sarala', sans-serif;
     font-size: 20px;
 }
+
+footer{
+    background-color: #8b4f6e;
+    color:#eeeeee;
+    font-family: 'Sarala', sans-serif;
+    font-size: 20px;
+    height: 10vh;
+    padding-top: 1.2em;
+
+}
+
